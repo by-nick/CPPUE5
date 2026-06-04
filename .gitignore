@@ -1,0 +1,19 @@
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# Unreal Engine
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Arquivos de build
+*.pdb
+*.ipch
+*.pch
+*.obj
+*.VC.db
+*.sln
+*.code-workspace
